@@ -137,7 +137,7 @@
             <mxPoint x="330" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKryqI77o_tDwRDf90ZS-3" value="Sinais Digitais de Feedback" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iKryqI77o_tDwRDf90ZS-3" value="Pulsos Digitais de Feedback" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="285" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iKryqI77o_tDwRDf90ZS-6" value="Sinais PWM e DIR" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -146,8 +146,22 @@
         <mxCell id="iKryqI77o_tDwRDf90ZS-7" value="12V" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iKryqI77o_tDwRDf90ZS-8" value="Sinal Analógico/Digital" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iKryqI77o_tDwRDf90ZS-8" value="Sinal Analógico para ADC" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="260" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKryqI77o_tDwRDf90ZS-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H-NImtJITTXTf6vny9Jh-31" target="H-NImtJITTXTf6vny9Jh-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="180" as="sourcePoint" />
+            <mxPoint x="360" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="180" />
+              <mxPoint x="300" y="180" />
+              <mxPoint x="350" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKryqI77o_tDwRDf90ZS-10" value="Sinal Digital" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
