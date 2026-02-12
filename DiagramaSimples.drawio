@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.3.8">
+  <diagram name="Página-1" id="fv7apl74M973tlNBWT9J">
+    <mxGraphModel dx="826" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1nPT1URIyOKqaRkpRK4t-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Microcontrolador" vertex="1">
+          <mxGeometry height="50" width="100" x="250" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="1nPT1URIyOKqaRkpRK4t-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Fonte de tensão" vertex="1">
+          <mxGeometry height="60" width="110" x="10" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1nPT1URIyOKqaRkpRK4t-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="64.58" y="90" as="sourcePoint" />
+            <mxPoint x="65" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nPT1URIyOKqaRkpRK4t-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Eletroíman" vertex="1">
+          <mxGeometry height="50" width="90" x="20" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1nPT1URIyOKqaRkpRK4t-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Driver de motores" vertex="1">
+          <mxGeometry height="45" width="90" x="255" y="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1nPT1URIyOKqaRkpRK4t-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="80" as="sourcePoint" />
+            <mxPoint x="270" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nPT1URIyOKqaRkpRK4t-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="49.58" as="sourcePoint" />
+            <mxPoint x="240" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nPT1URIyOKqaRkpRK4t-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Motores" vertex="1">
+          <mxGeometry height="55" width="100" x="440" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1nPT1URIyOKqaRkpRK4t-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="52.08" as="sourcePoint" />
+            <mxPoint x="430" y="52.08" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nPT1URIyOKqaRkpRK4t-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="200" as="sourcePoint" />
+            <mxPoint x="120" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nPT1URIyOKqaRkpRK4t-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="200" as="sourcePoint" />
+            <mxPoint x="480" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nPT1URIyOKqaRkpRK4t-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Regulador de tensão" vertex="1">
+          <mxGeometry height="30" width="100" x="140" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1nPT1URIyOKqaRkpRK4t-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sensores de linha" vertex="1">
+          <mxGeometry height="50" width="90" x="490" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="1nPT1URIyOKqaRkpRK4t-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="150" as="sourcePoint" />
+            <mxPoint x="300" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
